@@ -1,18 +1,24 @@
 ==> Back-end
 
-1. Clone project
+1. Clone the Repository
+   Clone the backend source code from GitHub:
 
 - git clone https://github.com/Sarovarshaikh/admin-dashboard-API.git
 
-2.  Install dependency or Run command
+2. Install Dependencies
 
-- npm install
+   - cd admin-dashboard-API
+   - npm install
 
-3. Create Database connection simple on workbreanch
+3. Set Up the Database
 
-4. Run Project
+- Open MySQL Workbench (or your preferred database client).
+- Create a new database(you can name it admin_dashboard or as defined in your db.config.js file).
+
+4. Start the Server
 
 - npm start
+  The server should run on: http://localhost:3000
 
 5. Import admin dashboard postman collection
 
