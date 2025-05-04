@@ -14,6 +14,13 @@
 
 - Open MySQL Workbench (or your preferred database client).
 - Create a new database(you can name it admin_dashboard or as defined in your db.config.js file).
+- first manually data instert in table like
+- {
+  "name": "sarovar",
+  "email": "sarovar@gmail.com",
+  "password": "sarovar123",
+  "role": "admin"
+  }
 
 4. Start the Server
 
