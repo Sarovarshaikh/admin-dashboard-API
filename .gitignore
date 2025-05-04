@@ -1,0 +1,21 @@
+# Node.js related
+node_modules/
+npm-debug.log*
+*.log
+*.tmp
+*.swp
+coverage/
+build/
+
+# IDE related
+.DS_Store
+*.log
+*.log.json
+.idea/
+.vscode/
+
+# Environment variables
+
+
+# Testing
+test/coverage/
